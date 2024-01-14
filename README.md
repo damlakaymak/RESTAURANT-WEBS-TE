@@ -2,9 +2,9 @@
 
 - HTML,CSS,JAVASCRİPT kullanılarak tasarlanmıştır.
 
--Preje Responsive yapıya sahiptir. 
+-Proje Responsive yapıya sahiptir. 
 
 # GİF 
 
 
-<img src=screen(3).gif>
+<img src="screen (3).gif">
