@@ -1,10 +1,9 @@
-## RESTAURANT WEBSİTE
+## Restaurant-website
 
-- HTML,CSS,JAVASCRİPT kullanılarak tasarlanmıştır.
+-HTML, CSS, JAVASCRİPT ile tasarlandı.
 
--Proje Responsive yapıya sahiptir. 
+-Bu proje responsive yapıya sahiptir.
 
-# GİF 
-
+# GİF
 
 <img src="screen (3).gif">
